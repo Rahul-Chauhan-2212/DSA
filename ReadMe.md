@@ -1,4 +1,5 @@
 # DSA
 
 1. [**Two Sum**](https://github.com/Rahul-Chauhan-2212/DSA/blob/master/src/main/java/arrays_strings/TwoSum.java)   - Hashing and Two Pointers
-2. 
+2. **[Sort 0's and 1's](https://github.com/Rahul-Chauhan-2212/DSA/blob/master/src/main/java/arrays_strings/SortZeroAndOnes.java)** - Counting Sort, Two Pointer
+3. **[Sort 0's, 1's and 2's](https://github.com/Rahul-Chauhan-2212/DSA/blob/master/src/main/java/arrays_strings/Sort0_1_2.java)** -- Counting sort, Dutch National Flag

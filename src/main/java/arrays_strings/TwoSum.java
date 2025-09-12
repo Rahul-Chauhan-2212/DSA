@@ -39,7 +39,7 @@ public class TwoSum {
     return new int[]{-1, -1};
   }
 
-  //O(n)
+  //O(n) - Hashing
   private static int[] better(int[] arr, int k) {
     Map<Integer, Integer> map = new HashMap<>();
     for (int i = 0; i < arr.length; i++) {
