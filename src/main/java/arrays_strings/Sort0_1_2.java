@@ -4,7 +4,7 @@ import java.util.Arrays;
 
 public class Sort0_1_2 {
 
-
+  //https://leetcode.com/problems/sort-colors/description/
   public static void main(String[] args) {
     int[] arr = {2, 0, 2, 1, 1, 0};
     printOutput(bruteForce(arr));
