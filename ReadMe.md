@@ -6,3 +6,4 @@
 4. [**Remove Outermost Parentheses**](https://github.com/Rahul-Chauhan-2212/DSA/blob/master/src/main/java/arrays_strings/RemoveOutermostParentheses.java) -- Stack Based, Counter Based
 5. [**Reverse words in String**](https://github.com/Rahul-Chauhan-2212/DSA/blob/master/src/main/java/arrays_strings/ReverseWordsInString.java) -- StringBuilder, Stack, Two Pointer
 6. [**Valid Palindrome**](https://github.com/Rahul-Chauhan-2212/DSA/blob/master/src/main/java/arrays_strings/Palindrome.java) -- String Builder, Two pointer
+7. [**Largest Odd Number in String**](https://github.com/Rahul-Chauhan-2212/DSA/blob/master/src/main/java/arrays_strings/LargestOddNumberInString.java) -- Greedy Approach
