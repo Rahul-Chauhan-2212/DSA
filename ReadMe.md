@@ -7,4 +7,5 @@
 5. [**Reverse words in String**](https://github.com/Rahul-Chauhan-2212/DSA/blob/master/src/main/java/arrays_strings/ReverseWordsInString.java) -- StringBuilder, Stack, Two Pointer
 6. [**Valid Palindrome**](https://github.com/Rahul-Chauhan-2212/DSA/blob/master/src/main/java/arrays_strings/Palindrome.java) -- String Builder, Two pointer
 7. [**Largest Odd Number in String**](https://github.com/Rahul-Chauhan-2212/DSA/blob/master/src/main/java/arrays_strings/LargestOddNumberInString.java) -- Greedy Approach
-8. [**Largest Element in Array**](https://github.com/Rahul-Chauhan-2212/DSA/blob/master/src/main/java/arrays_strings/LargestElementInArray.java) -- Sorting, Greedy Approach
+8. [**Largest Element in Array**](https://github.com/Rahul-Chauhan-2212/DSA/blob/master/src/main/java/arrays_strings/LargestElementInArray.java) -- Sorting, One pass
+9. [**Second Largest Element in Array**](https://github.com/Rahul-Chauhan-2212/DSA/blob/master/src/main/java/arrays_strings/SecondLargestElementInArray.java)  -- Sorting+One Pass, Two Pass, One Pass
