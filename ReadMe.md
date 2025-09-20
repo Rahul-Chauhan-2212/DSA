@@ -9,3 +9,4 @@
 7. [**Largest Odd Number in String**](https://github.com/Rahul-Chauhan-2212/DSA/blob/master/src/main/java/arrays_strings/LargestOddNumberInString.java) -- Greedy Approach
 8. [**Largest Element in Array**](https://github.com/Rahul-Chauhan-2212/DSA/blob/master/src/main/java/arrays_strings/LargestElementInArray.java) -- Sorting, One pass
 9. [**Second Largest Element in Array**](https://github.com/Rahul-Chauhan-2212/DSA/blob/master/src/main/java/arrays_strings/SecondLargestElementInArray.java)  -- Sorting+One Pass, Two Pass, One Pass
+10. [**Check if Array is Sorted**](https://github.com/Rahul-Chauhan-2212/DSA/blob/master/src/main/java/arrays_strings/CheckIfArrayIsSorted.java) -- One pass
