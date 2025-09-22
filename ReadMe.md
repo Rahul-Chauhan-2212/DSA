@@ -11,4 +11,6 @@
 9. [**Second Largest Element in Array**](https://github.com/Rahul-Chauhan-2212/DSA/blob/master/src/main/java/arrays_strings/SecondLargestElementInArray.java)  -- Sorting+One Pass, Two Pass, One Pass
 10. [**Check if Array is Sorted**](https://github.com/Rahul-Chauhan-2212/DSA/blob/master/src/main/java/arrays_strings/CheckIfArrayIsSorted.java) -- One pass
 11. [**Check if Array is Sorted and Rotated**](https://github.com/Rahul-Chauhan-2212/DSA/blob/master/src/main/java/arrays_strings/CheckIfArrayIsSortedAndRotated.java) -- One Pass
-12. [Remove Duplicates in place from Sorted Array](https://github.com/Rahul-Chauhan-2212/DSA/blob/master/src/main/java/arrays_strings/RemoveDuplicatesInPlaceFromSortedArray.java) -- Hashset, Two Pointer
+12. [**Remove Duplicates in place from Sorted Array**](https://github.com/Rahul-Chauhan-2212/DSA/blob/master/src/main/java/arrays_strings/RemoveDuplicatesInPlaceFromSortedArray.java) -- Hashset, Two Pointer
+13. [**Left Rotate Array by one place**](https://github.com/Rahul-Chauhan-2212/DSA/blob/master/src/main/java/arrays_strings/LeftRotateArrayByOnePlace.java) -- One by one rotation
+14. [**Left Rotate Array by k places**](https://github.com/Rahul-Chauhan-2212/DSA/blob/master/src/main/java/arrays_strings/LeftRotateArrayByKPlaces.java) -- One by one rotation, Temp array, Reversal Algorithm
