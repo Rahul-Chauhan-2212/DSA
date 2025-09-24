@@ -15,3 +15,4 @@
 13. [**Left Rotate Array by one place**](https://github.com/Rahul-Chauhan-2212/DSA/blob/master/src/main/java/arrays_strings/LeftRotateArrayByOnePlace.java) -- One by one rotation
 14. [**Left Rotate Array by k places**](https://github.com/Rahul-Chauhan-2212/DSA/blob/master/src/main/java/arrays_strings/LeftRotateArrayByKPlaces.java) -- One by one rotation, Temp array, Reversal Algorithm
 15. [**Move zeros to end of an array**](https://github.com/Rahul-Chauhan-2212/DSA/blob/master/src/main/java/arrays_strings/MoveZerosToEndOfArray.java) -- List, Two Pointer
+16. [**Linear Search in Array**](https://github.com/Rahul-Chauhan-2212/DSA/blob/master/src/main/java/arrays_strings/LinearSearch.java)
