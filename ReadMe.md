@@ -16,4 +16,5 @@
 14. [**Left Rotate Array by k places**](https://github.com/Rahul-Chauhan-2212/DSA/blob/master/src/main/java/arrays_strings/LeftRotateArrayByKPlaces.java) -- One by one rotation, Temp array, Reversal Algorithm
 15. [**Move zeros to end of an array**](https://github.com/Rahul-Chauhan-2212/DSA/blob/master/src/main/java/arrays_strings/MoveZerosToEndOfArray.java) -- List, Two Pointer
 16. [**Linear Search in Array**](https://github.com/Rahul-Chauhan-2212/DSA/blob/master/src/main/java/arrays_strings/LinearSearch.java)
-17. [**Union of Sorted Arrays**](https://github.com/Rahul-Chauhan-2212/DSA/blob/master/src/main/java/arrays_strings/UnionOfSortedArrays) - Set, Two Pointer
+17. [**Union of Sorted Arrays**](https://github.com/Rahul-Chauhan-2212/DSA/blob/master/src/main/java/arrays_strings/UnionOfSortedArrays.java) - Set, Two Pointer
+18. [**Missing Number**](https://github.com/Rahul-Chauhan-2212/DSA/blob/master/src/main/java/arrays_strings/MissingNumber.java) -- Hashing, Sum, XOR
