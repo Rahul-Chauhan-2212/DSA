@@ -9,3 +9,4 @@
    * [Top K Frequent Elements](https://leetcode.com/problems/top-k-frequent-elements/description/)
    * [Encode and Decode String](https://leetcode.com/problems/encode-and-decode-strings/description/)
    * [Product of Array Except Itself](https://leetcode.com/problems/product-of-array-except-self/description/)
+   * [Longest Consecutive Sequence](https://leetcode.com/problems/longest-consecutive-sequence/description/)

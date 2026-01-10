@@ -1,3 +1,5 @@
+package array_hashing;
+
 import java.util.Arrays;
 
 public class ProductOfArrayExceptItself {

@@ -1,3 +1,5 @@
+package array_hashing;
+
 import java.util.ArrayList;
 import java.util.List;
 
