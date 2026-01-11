@@ -13,3 +13,4 @@
    
 2. Two Pointers
    * [Valid Palindrome](https://leetcode.com/problems/valid-palindrome/description/)
+   * [3 Sum](https://leetcode.com/problems/3sum/description/)
